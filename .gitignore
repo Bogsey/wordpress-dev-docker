@@ -2,3 +2,4 @@ data/
 plugins/
 wordpress/
 .vscode/
+.gitmodules
